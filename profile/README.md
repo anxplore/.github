@@ -16,7 +16,7 @@ To apply the world-class precision of Taiwanese digital engineering with the har
 **Anxplore** is my public laboratory. \
 It is the documentation of a 0 to 1 transition from Earth-bound chips to Orbital-grade systems.
 
-## 📡 Live Telemetry: The 0 to 1 Mission Log
+## 📡 Live Telemetry: The 0 to 1 Anxplore Log
 
 *This is not a static bio. This is a dynamic stream of my current curiosity.*
 
@@ -26,9 +26,9 @@ To ensure this mission is **falsifiable and rigorous**, every step of my learnin
 2. **🛡️ Stress Testing:** Simulating how terrestrial digital logic survives in orbital environments.
 3. **🏗️ Log Output:** Publishing open-source insights.
 
-### 🔗 Latest Mission Logs
+### 🔗 Latest Anxplore Logs
 I document every breakthrough, failure, and "aha!" moment in my deep-dive logs. \
-👉 **[Explore the Mission Logs at anxplore.space](https://www.anxplore.space/)**
+👉 **[Explore the Anxplore Logs at anxplore.space](https://www.anxplore.space/)**
 
 ## 🛠️ The Pioneer’s Philosophy
 
@@ -43,7 +43,7 @@ I don't have all the answers. In fact, I'm just starting to ask the right questi
 I am building this path in real-time. \
 Whether you are an aerospace veteran or a fellow traveler of the New Space Era, let's connect and **Anxplore** together.
 
-🌍 **Mission Hub:** [www.anxplore.space](https://www.anxplore.space/)  
+🌍 **Anxplore Hub:** [www.anxplore.space](https://www.anxplore.space/)  
 📩 **Telemetry Link:** [contact@anxplore.space](mailto:contact@anxplore.space)
 
 *"In the vacuum of space, only your signal strength matters."*
